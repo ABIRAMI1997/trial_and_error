@@ -1,2 +1,2 @@
-# trial_and_error
-The things which I try, to learn more
+# Trial_And_Error
+The things which I try, to learn more :-)
